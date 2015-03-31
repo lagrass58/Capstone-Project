@@ -1,0 +1,17 @@
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\bin\Debug\CCR_ShopForm.exe.config
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.CCR_AboutBox.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.CCR_LoginScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.ShopReportForm.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.CCR_SplashScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.Resources.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.ShopForm.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\bin\Debug\ColumbusComputerRepair_Database.accdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\bin\Debug\CCR_ShopForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\bin\Debug\CCR_ShopForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\bin\Debug\CCR_ShopForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_ShopForm\CCR_ShopForm\obj\x86\Debug\CCR_ShopForm.pdb

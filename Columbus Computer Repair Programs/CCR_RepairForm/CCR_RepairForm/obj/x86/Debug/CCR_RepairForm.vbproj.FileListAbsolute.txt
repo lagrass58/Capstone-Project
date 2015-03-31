@@ -1,0 +1,17 @@
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\bin\Debug\CCR_RepairForm.exe.config
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.CCR_AboutBox.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.CCR_LoginScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.CCR_SplashScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.Resources.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.RepairForm.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\bin\Debug\ColumbusComputerRepair_Database.accdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\bin\Debug\CCR_RepairForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\bin\Debug\CCR_RepairForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\bin\Debug\CCR_RepairForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_RepairForm\CCR_RepairForm\obj\x86\Debug\CCR_RepairForm.ReportForm.resources

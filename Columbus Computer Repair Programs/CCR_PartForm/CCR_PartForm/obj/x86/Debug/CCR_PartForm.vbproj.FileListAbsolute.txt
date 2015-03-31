@@ -1,0 +1,17 @@
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\bin\Debug\CCR_PartForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\bin\Debug\CCR_PartForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\bin\Debug\CCR_PartForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.CCR_AboutBox.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.CCR_SplashScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.Resources.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.PartForm.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\bin\Debug\ColumbusComputerRepair_Database.accdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\bin\Debug\CCR_PartForm.exe.config
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.CCR_LoginScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_PartForm\CCR_PartForm\obj\x86\Debug\CCR_PartForm.PartReportForm.resources

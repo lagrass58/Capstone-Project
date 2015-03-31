@@ -1,0 +1,17 @@
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\bin\Debug\CCR_EmployeeForm.exe.config
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.CCR_AboutBox.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.CCR_LoginScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.CCR_SplashScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.EmployeeForm.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.Resources.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\bin\Debug\ColumbusComputerRepair_Database.accdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\bin\Debug\CCR_EmployeeForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\bin\Debug\CCR_EmployeeForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\bin\Debug\CCR_EmployeeForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_EmployeeForm\CCR_EmployeeForm\obj\x86\Debug\CCR_EmployeeForm.EmployeeReportForm.resources

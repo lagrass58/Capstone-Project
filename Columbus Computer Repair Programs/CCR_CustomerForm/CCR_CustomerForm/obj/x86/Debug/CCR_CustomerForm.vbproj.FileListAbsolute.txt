@@ -1,0 +1,16 @@
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\bin\Debug\CCR_CustomerForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\bin\Debug\CCR_CustomerForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\bin\Debug\CCR_CustomerForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.CustomerForm.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.Resources.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.CCR_SplashScreen.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.exe
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.xml
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.pdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\bin\Debug\CCR_CustomerForm.exe.config
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\bin\Debug\ColumbusComputerRepair_Database.accdb
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.CCR_AboutBox.resources
+C:\Users\Tony\Documents\Homework\CIT 282 - Capstone Project\Columbus Computer Repair Programs\CCR_CustomerForm\CCR_CustomerForm\obj\x86\Debug\CCR_CustomerForm.CCR_LoginScreen.resources
